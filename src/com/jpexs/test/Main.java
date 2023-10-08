@@ -7,6 +7,6 @@ package com.jpexs.test;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("not correctly indented");
+            System.out.println("not correctly indented");
     }
 }
