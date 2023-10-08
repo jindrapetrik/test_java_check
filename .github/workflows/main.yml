@@ -21,3 +21,4 @@ jobs:
           reporter: github-check
           checkstyle_config: checkstyle.xml
           fail_on_error: true
+          level: error
